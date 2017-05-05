@@ -16,36 +16,36 @@
 	<div class="navbar">
 	<img src="img/header.png">
 	<ul>
-	<li> <a href="admin.php"> <i class="fa fa-user"> Admin </i> </a> </li>
+<li> <a href="admin.php"> <i class="fa fa-user"> Admin </i> </a> </li>
 	<li> <a href="aboutus.php"><i class="fa fa-phone">   About Us  </i> </a> </li>
-	<li> <a href="#"><i class="fa fa-child">  Provinsi </i> </a> 
+	<li> <a href="#"><i class="fa fa-child">  Provinsi </i> </a>  
 	<ul>
-	<li> <a href="tari-gending-sriwijaya.php"> Propinsi Jawa Barat </a> </li>
-	<li> <a href="tari-tanggai.php"> Propinsi Jawa Timur </a> </li>
-	<li> <a href="tari-mejeng-basuko.php"> Propinsi Jawa Tengah </a> </li>
+	<li> <a href="Provinsijawabarat.php"> Propinsi Jawa Barat </a> </li>
+	<li> <a href="Provinsijawatimur.php"> Propinsi Jawa Timur </a> </li>
+	<li> <a href="Provinsijawatengah.php"> Propinsi Jawa Tengah </a> </li>
 	</ul>
 	</li>
 	<li> <a href="index.php"> <i class="fa fa-home"> Home  </i> </a> </li>
 	</ul>
 	</div>
 	<div id="slideshow" class="owl-carousel owl-theme">
-				<div class="item"><img src="img/2.jpg">
+				<div class="item"><img src="img/imgg/angklung.jpg">
 
 					
 				</div>
-				<div class="item"><img src="img/4.jpg">
+				<div class="item"><img src="img/imgg/badutmalang.jpg">
 					
 				</div>	
-				<div class="item"><img src="img/3.jpg">
+				<div class="item"><img src="img/imgg/budha.jpg">
 					
 				</div>	
-				<div class="item"><img src="img/1.jpg">
+				<div class="item"><img src="img/imgg/dukuhsalatiga.jpg">
 					
 				</div>	
-				<div class="item"><img src="img/5.jpg">
+				<div class="item"><img src="img/imgg/gamelan.jpg">
 					
 				</div>	
-				<div class="item"><img src="img/6.jpg">
+				<div class="item"><img src="img/imgg/jenangkudus.jpg">
 					
 				</div>				
 			</div>
@@ -53,28 +53,27 @@
 	<h4> Javanese Culture Heritage </h4>
 	<hr width="530px" style="margin-left:420px;">
 	<div class="content content-1">
-	<a href="tari-gending-sriwijaya.php"> <img src="img/1.jpg"> </a>
-
+	<img src="img/imgg/budha.jpg"> </a>
 	</div>
 	<div class="content content-2">
-	<a href="tari-tanggai.php"> <img src="img/2.jpg"> </a>
+	<img src="img/imgg/angklung.jpg"> </a>
 	</div>
 	<div class="content content-3">
-	<a href="tari-mejeng-basuko.php"> <img src="img/3.jpg"> </a>
+	<img src="img/imgg/badutmalang.jpg">
 	</div>
 	<div class="content content-4">
-	<a href="tari-rodat-cempako.php"> <img src="img/4.jpg"> </a>
+	<img src="img/imgg/brahu.jpg"> </a>
 	</div>
 	<div class="content content-5">
-	<a href="tari-tenun-songket.php"> <img src="img/5.jpg"> </a>
+	<img src="img/imgg/dukuhsalatiga.jpg"> </a>
 	</div>
 	<div class="content content-6">
-	<a href="tari-pagar-pengantin.php"> <img src="img/6.jpg"> </a>
+	<img src="img/imgg/gamelan.jpg"> </a>
 	</div>
 	</div>
 
 	<div class="footer">
-	<b> Copyright &copy; 2016 - Kebudayaan Jawa By Musik II  </b>
+	<b> Copyright &copy; 2017 - Kebudayaan Jawa  </b>
 	<a href="#">
 	<i class="fa fa-facebook"> </i>
 	<i class="fa fa-twitter"> </i>
